@@ -41,7 +41,7 @@ O sistema também possui **tratamento de erro para divisão por zero**, garantin
 
 1. Clone o repositório:
 ```
-git clone https://github.com/seu-repositorio/calculadora.git
+git clone [https://github.com/helofleury/Calculadora_CSharp.git]
 ```
 
 2. Abra o projeto no **Visual Studio**.
