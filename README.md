@@ -107,7 +107,7 @@ Este projeto foi desenvolvido com fins educacionais para praticar conceitos bás
 
 ## 👨‍💻 Integrantes do Grupo
 
-- **Heloisa Fleury Jardim** — RM556378  
-- **Juan Fuentes Rufino** — RM557673  
-- **Pedro Henrique Silva Batista** — RM558137  
-- **Paulo Henrique Monteiro Golovanevsky** — RM555300  
+- **Heloisa Fleury Jardim** - RM556378  
+- **Juan Fuentes Rufino** - RM557673  
+- **Pedro Henrique Silva Batista** - RM558137  
+- **Paulo Henrique Monteiro Golovanevsky** - RM555300  
