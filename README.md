@@ -79,19 +79,19 @@ Calculadora (Adição / Subtração / Multiplicação / Divisão)
 5 - Sair
 ```
 
-## 📖 Exemplos de saída
+<h2>📖 Exemplos de saída</h2>
 
-### Soma
-![Resultado da soma](https://github.com/user-attachments/assets/4027a708-f95e-4d89-aca7-6ce0820a4917)
+<h3>Soma</h3>
+<img src="https://github.com/user-attachments/assets/4027a708-f95e-4d89-aca7-6ce0820a4917" width="500">
 
-### Subtração
-![Resultado da subtração](https://github.com/user-attachments/assets/e9fec8f3-d44b-42db-a9cb-c7d570952866)
+<h3>Subtração</h3>
+<img src="https://github.com/user-attachments/assets/e9fec8f3-d44b-42db-a9cb-c7d570952866" width="500">
 
-### Multiplicação
-![Resultado da multiplicação](https://github.com/user-attachments/assets/6bc69afa-abe0-4996-9e8f-54b1281674e2)
+<h3>Multiplicação</h3>
+<img src="https://github.com/user-attachments/assets/6bc69afa-abe0-4996-9e8f-54b1281674e2" width="500">
 
-### Divisão
-![Resultado da divisão](https://github.com/user-attachments/assets/00fabb29-681f-4798-88af-459c4311264c)
+<h3>Divisão</h3>
+<img src="https://github.com/user-attachments/assets/00fabb29-681f-4798-88af-459c4311264c" width="500">
 
 ## 📚 Objetivo do Projeto
 
