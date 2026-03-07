@@ -1,4 +1,4 @@
-# 🧮 Calculadora em C#
+## 🧮 Calculadora em C#
 
 ## 📌 Descrição
 Este projeto consiste em uma **calculadora desenvolvida em C#** que permite ao usuário realizar operações matemáticas básicas através do terminal.
@@ -13,7 +13,7 @@ As operações disponíveis são:
 - Multiplicação
 - Divisão
 
-![Menu da Calculadora](https://github.com/user-attachments/assets/f628d374-1fe8-490b-8bce-69cce7e05ed3)
+<img src="https://github.com/user-attachments/assets/f628d374-1fe8-490b-8bce-69cce7e05ed3" width="500">
 
 O sistema também possui **tratamento de erro para divisão por zero**, garantindo que o programa não execute uma operação inválida.
 
