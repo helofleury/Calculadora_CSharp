@@ -1,10 +1,3 @@
-## 👨‍💻 Integrantes do Grupo
-
-- **Heloisa Fleury Jardim** — RM556378  
-- **Juan Fuentes Rufino** — RM557673  
-- **Pedro Henrique Silva Batista** — RM558137  
-- **Paulo Henrique Monteiro Golovanevsky** — RM555300  
-
 # 🧮 Calculadora em C#
 
 ## 📌 Descrição
@@ -12,11 +5,15 @@ Este projeto consiste em uma **calculadora desenvolvida em C#** que permite ao u
 
 O programa apresenta um menu interativo onde o usuário pode escolher a operação desejada e inserir os números para realizar o cálculo.
 
+## 🖥️ Menu da Aplicação
+
 As operações disponíveis são:
 - Adição
 - Subtração
 - Multiplicação
 - Divisão
+
+![Menu da Calculadora](https://github.com/user-attachments/assets/f628d374-1fe8-490b-8bce-69cce7e05ed3)
 
 O sistema também possui **tratamento de erro para divisão por zero**, garantindo que o programa não execute uma operação inválida.
 
@@ -82,16 +79,19 @@ Calculadora (Adição / Subtração / Multiplicação / Divisão)
 5 - Sair
 ```
 
-Exemplo de saída:
+## 📖 Exemplos de saída
 
-```
-Digite o primeiro número: 10
-Digite o segundo número: 5
+### Soma
+![Resultado da soma](https://github.com/user-attachments/assets/4027a708-f95e-4d89-aca7-6ce0820a4917)
 
-O resultado da soma de 10 + 5 é 15
-```
+### Subtração
+![Resultado da subtração](https://github.com/user-attachments/assets/e9fec8f3-d44b-42db-a9cb-c7d570952866)
 
----
+### Multiplicação
+![Resultado da multiplicação](https://github.com/user-attachments/assets/6bc69afa-abe0-4996-9e8f-54b1281674e2)
+
+### Divisão
+![Resultado da divisão](https://github.com/user-attachments/assets/00fabb29-681f-4798-88af-459c4311264c)
 
 ## 📚 Objetivo do Projeto
 
@@ -104,3 +104,10 @@ Este projeto foi desenvolvido com fins educacionais para praticar conceitos bás
 - Tratamento de erros
 
 ---
+
+## 👨‍💻 Integrantes do Grupo
+
+- **Heloisa Fleury Jardim** — RM556378  
+- **Juan Fuentes Rufino** — RM557673  
+- **Pedro Henrique Silva Batista** — RM558137  
+- **Paulo Henrique Monteiro Golovanevsky** — RM555300  
