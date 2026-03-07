@@ -67,19 +67,7 @@ Calculadora
     ├── Calculadora.csproj
 ```
 
-## 📖 Exemplo de Uso
-
-```
-Calculadora (Adição / Subtração / Multiplicação / Divisão)
-
-1 - Adição
-2 - Subtração
-3 - Multiplicação
-4 - Divisão
-5 - Sair
-```
-
-<h2>📖 Exemplos de saída</h2>
+<h2>📖 Exemplos de entrada e saída</h2>
 
 <h3>Soma</h3>
 <img src="https://github.com/user-attachments/assets/4027a708-f95e-4d89-aca7-6ce0820a4917" width="500">
