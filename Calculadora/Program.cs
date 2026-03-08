@@ -7,7 +7,7 @@ opcao = 0;
 
 while (opcao != 5)
 {
-    Console.WriteLine("Calculadora (Adição / Subtração / Multiplicação / Divisão)");
+    Console.WriteLine("\nCalculadora (Adição / Subtração / Multiplicação / Divisão)");
     Console.WriteLine("Escolha uma operação:");
     Console.WriteLine("1 - Adição");
     Console.WriteLine("2 - Subtração");
