@@ -13,7 +13,7 @@ As operações disponíveis são:
 - Multiplicação
 - Divisão
 
-<img src="https://github.com/user-attachments/assets/f628d374-1fe8-490b-8bce-69cce7e05ed3" width="500">
+<img src="https://github.com/user-attachments/assets/6ae4f2da-b1f9-44ad-812e-4599b3777692" width="500"/>
 
 O sistema também possui **tratamento de erro para divisão por zero**, garantindo que o programa não execute uma operação inválida.
 
