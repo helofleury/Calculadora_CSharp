@@ -1,4 +1,24 @@
-﻿int num1;
+﻿int Somar(int a, int b)
+{
+    return a + b;
+}
+
+int Subtrair(int a, int b)
+{
+    return a - b; 
+}
+
+int Multiplicar(int a, int b)
+{
+    return a * b; 
+}
+
+int Dividir(int a, int b)
+{
+    return a / b;
+}
+
+int num1;
 int num2;
 int opcao;
 int resultado;
@@ -7,7 +27,7 @@ opcao = 0;
 
 while (opcao != 5)
 {
-    Console.WriteLine("\nCalculadora (Adição / Subtração / Multiplicação / Divisão)");
+    Console.WriteLine("Calculadora (Adição / Subtração / Multiplicação / Divisão)\n");
     Console.WriteLine("Escolha uma operação:");
     Console.WriteLine("1 - Adição");
     Console.WriteLine("2 - Subtração");
@@ -27,17 +47,17 @@ while (opcao != 5)
 
         if (opcao == 1)
         {
-            resultado = num1 + num2;
+            resultado = Somar(num1, num2);
             Console.WriteLine($"O resultado da soma de {num1} + {num2} é {resultado}");
         }
         else if (opcao == 2)
         {
-            resultado = num1 - num2;
+            resultado = Subtrair(num1, num2);
             Console.WriteLine($"O resultado da subtração de {num1} - {num2} é {resultado}");
         }
         else if (opcao == 3)
         {
-            resultado = num1 * num2;
+            resultado = Multiplicar(num1, num2);
             Console.WriteLine($"O resultado da multiplicação de {num1} * {num2} é {resultado}");
         }
         else if (opcao == 4)
@@ -48,7 +68,7 @@ while (opcao != 5)
             }
             else
             {
-                resultado = num1 / num2;
+                resultado = Dividir(num1, num2);
                 Console.WriteLine($"O resultado da divisão de {num1} / {num2} é {resultado}");
             }
         }
