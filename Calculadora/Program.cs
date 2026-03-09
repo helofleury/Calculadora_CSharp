@@ -1,6 +1,6 @@
 ﻿void ExibirMensagem()
 {
-    Console.WriteLine("Calculadora (Adição / Subtração / Multiplicação / Divisão)");
+    Console.WriteLine("Bem-vindo(a) ao nosso sistema!");
 }
 int Somar(int a, int b)
 {
@@ -33,6 +33,7 @@ ExibirMensagem();
 
 while (opcao != 5)
 {
+    Console.WriteLine("\nCalculadora (Adição / Subtração / Multiplicação / Divisão)");
     Console.WriteLine("Escolha uma operação:");
     Console.WriteLine("1 - Adição");
     Console.WriteLine("2 - Subtração");
